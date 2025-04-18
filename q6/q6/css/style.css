@@ -1,1 +1,39 @@
 @charset "UTF-8";
+
+.header {
+  width: 100%;
+  background: #388bff;
+  position:fixed;
+}
+
+.box{
+  width: 1100px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.shop {
+  margin-top: 30px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+a {
+  color: #f2ff7b;
+  text-decoration: none;
+}
+
+.etc {
+  display: flex;
+  justify-content: space-between;
+}
+
+.etc li {
+  list-style: none;
+  padding: 30px;
+}
+
+li a {
+  color: #ffffff;
+}
