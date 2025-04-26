@@ -2,22 +2,22 @@
 
 .image{
   height: 500px;
-  background: url(/Users/mutsuki/html/LayoutParts-Part2/q8/image/coffee-background.jpg);
+  background: url(../../image/coffee-background.jpg);
 }
 
 .image-no-repeat{
   height: 500px;
-  background: url(/Users/mutsuki/html/LayoutParts-Part2/q8/image/coffee-background.jpg)no-repeat;
+  background: url(../../image/coffee-background.jpg)no-repeat;
 }
 
 .image-center{
   height: 500px;
-  background: url(/Users/mutsuki/html/LayoutParts-Part2/q8/image/coffee-background.jpg)no-repeat center;
+  background: url(../../image/coffee-background.jpg)no-repeat center;
   background-size: cover;
 }
 
 .image-center-plus{
   height: 500px;
-  background: url(/Users/mutsuki/html/LayoutParts-Part2/q8/image/coffee-background.jpg)no-repeat center;
+  background: url(../../image/coffee-background.jpg)no-repeat center;
   background-size: contain;
 }
