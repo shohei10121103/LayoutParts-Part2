@@ -12,12 +12,10 @@
 
 .image-center{
   height: 500px;
-  background: url(../../image/coffee-background.jpg)no-repeat center;
-  background-size: cover;
+  background: url(../../image/coffee-background.jpg)no-repeat center/cover;
 }
 
 .image-center-plus{
   height: 500px;
-  background: url(../../image/coffee-background.jpg)no-repeat center;
-  background-size: contain;
+  background: url(../../image/coffee-background.jpg)no-repeat center/contain;
 }
